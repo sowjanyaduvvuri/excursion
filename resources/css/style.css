@@ -1,0 +1,40 @@
+h1, p, .iphoneCamera, .camp, div, .iphoneImage,
+.description, .travelGuide {
+  text-align: center;
+  font-family:Verdana;
+  background-color: Black;
+}
+
+.pageHeading {
+  font-size:50px
+  font-weight:normal;
+  color: White;
+}
+
+.travelGuide {
+  font-weight: 300;
+  font-size:42px;
+  color: White;
+}
+
+.excursion {
+  color:Aquamarine;
+  font-size:16px;
+}
+
+.description {
+  font-size:21px;
+  color:Gray;
+}
+
+.iphoneCamera {
+  background: url('../images/excursion.mp4');
+}
+
+.camp {
+  background-image:  url('../images/camp.jpg');
+}
+
+.iphoneImage {
+  background-image: url('../images/phone.png');
+}

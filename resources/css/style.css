@@ -1,8 +1,11 @@
-h1, p, .iphoneCamera, .camp, div, .iphoneImage,
+h1, p, .iphoneCamera, .camp, .iphoneImage,
 .description, .travelGuide {
   text-align: center;
   font-family:Verdana;
-  background-color: Black;
+}
+
+body {
+    background-color: Black;
 }
 
 .pageHeading {
@@ -27,14 +30,10 @@ h1, p, .iphoneCamera, .camp, div, .iphoneImage,
   color:Gray;
 }
 
-.iphoneCamera {
-  background: url('../images/excursion.mp4');
-}
-
-.camp {
-  background-image:  url('../images/camp.jpg');
+.copyright {
+  text-align: right;
+  color: Gray;
 }
 
 .iphoneImage {
-  background-image: url('../images/phone.png');
 }
